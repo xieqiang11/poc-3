@@ -1,4 +1,7 @@
-version：Windows client version 2.10.4
+Vendor:NetEase 
+Product:NetEase CloudMusic
+Version:Windows client 2.10.4
+
 # poc of Net'Ease CloudMusic dll hijacking
 
 
